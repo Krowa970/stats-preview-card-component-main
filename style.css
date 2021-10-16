@@ -14,7 +14,7 @@ body{
     margin: 5em 1.5em 0;
 }
 header{
-    background-image: url(/images/image-header-mobile.jpg);
+    background-image: url(/image-header-mobile.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 35vh;
